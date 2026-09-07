@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38&desc=Web3%20%E2%80%A2%20AI%20Safety%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descFontSize=18&theme=tokyonight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38&desc=Web3%20%E2%80%A2%20AI%20Safety%20%E2%80%A2%20Backend%20Developer&descAlignY=62&descFontSize=18&theme=tokyonight" width="100%"/>
 
   <p align="center">
     <a href="https://github.com/Adikafazaa">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Web3+Enthusiast+%26+Developer;AI+Safety+%26+Guardrail+Architect+(SIAGA);Crypto+Automations+%26+Algorithmic+Trading;Always+shipping+and+learning..." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+System+Architect;Web3+Enthusiast+%26+Smart+Contracts;AI+Safety+%26+Guardrail+Architect+(SIAGA);High-Performance+Crypto+Trading+Engines;Always+building+and+learning..." alt="Typing SVG" />
     </a>
   </p>
 
@@ -25,19 +25,20 @@
 
 ```yaml
 Name: Adika Faza
+Role: Backend & Distributed Systems Engineer
 Location: Indonesia
 Pronouns: he/him
-Interests: Web3 Ecosystems, AI Safety & Alignment, Algorithmic Trading
+Interests: Backend Architecture, Web3 Ecosystems, AI Safety & Guardrails, Algorithmic Trading
 Current Focus:
-  - Building stateful LLM guardrails against multi-turn attacks (SIAGA)
-  - Developing automated crypto trading strategies & decentralized tools
+  - Designing robust backend pipelines & stateful AI guardrails (SIAGA)
+  - Developing automated crypto trading infrastructure & decentralized backend systems
 Experience: Completed an Internship at The University of Padjadjaran
 ```
 
 - 🔭 I’m currently architecting **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Crescendo Attacks.
-- 🌱 Continuously refining my expertise in **TypeScript**, **Python**, **Web3**, and **Autonomous Agentic Workflows**.
-- 💬 Ask me about **Web3 automation**, **AI guardrails**, or **quantitative crypto strategies**.
-- ⚡ Fun fact: *I enjoy turning complex ideas into clean, automated code.*
+- 🌱 Continuously refining my expertise in **Backend Architecture**, **Python**, **TypeScript**, **Databases**, and **Distributed Systems**.
+- 💬 Ask me about **backend API design**, **AI guardrails**, **Web3 automation**, or **quantitative crypto strategies**.
+- ⚡ Fun fact: *I enjoy architecting resilient backend logic and turning complex ideas into clean, automated code.*
 
 ---
 
@@ -45,28 +46,27 @@ Experience: Completed an Internship at The University of Padjadjaran
 
 <div align="center">
 
-#### Languages
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Tools, Web3 & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+#### Infrastructure, DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
