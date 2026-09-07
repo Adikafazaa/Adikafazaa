@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href="https://github.com/Adikafazaa">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+System+Architect;Web3+Enthusiast+%26+Smart+Contracts;AI+Safety+%26+Guardrail+Architect+(SIAGA);High-Performance+Crypto+Trading+Engines;Always+building+and+learning..." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+System+Architect;Web3+Enthusiast+%26+Smart+Contracts;AI+Safety+%26+Guardrail+Architect+(SIAGA);Scalable+Microservices+%26+Clean+APIs;Always+building+and+learning..." alt="Typing SVG" />
     </a>
   </p>
 
@@ -28,16 +28,16 @@ Name: Adika Faza
 Role: Backend & Distributed Systems Engineer
 Location: Indonesia
 Pronouns: he/him
-Interests: Backend Architecture, Web3 Ecosystems, AI Safety & Guardrails, Algorithmic Trading
+Interests: Backend Architecture, Web3 Ecosystems, AI Safety & Guardrails, Distributed Systems
 Current Focus:
   - Designing robust backend pipelines & stateful AI guardrails (SIAGA)
-  - Developing automated crypto trading infrastructure & decentralized backend systems
+  - Architecting scalable cloud backends & decentralized data systems
 Experience: Completed an Internship at The University of Padjadjaran
 ```
 
 - 🔭 I’m currently architecting **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Crescendo Attacks.
 - 🌱 Continuously refining my expertise in **Backend Architecture**, **Python**, **TypeScript**, **Databases**, and **Distributed Systems**.
-- 💬 Ask me about **backend API design**, **AI guardrails**, **Web3 automation**, or **quantitative crypto strategies**.
+- 💬 Ask me about **backend API design**, **AI guardrails**, **Web3 infrastructure**, or **database optimizations**.
 - ⚡ Fun fact: *I enjoy architecting resilient backend logic and turning complex ideas into clean, automated code.*
 
 ---
@@ -79,7 +79,6 @@ Experience: Completed an Internship at The University of Padjadjaran
 | 🛡️ **[SIAGA](https://github.com/Adikafazaa/SIAGA)** | Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Multi-Turn Crescendo Attacks. | `TypeScript` `AI Safety` `LLM Guardrail` |
 | ⚡ **[md-to-pdf](https://github.com/Adikafazaa/md-to-pdf)** | High-quality Markdown to PDF converter with Unicode, KaTeX LaTeX, Mermaid Flowcharts, and Drag & Drop Studio. | `JavaScript` `KaTeX` `Mermaid.js` |
 | 🎓 **[Beasiswa-checker](https://github.com/Adikafazaa/Beasiswa-checker)** | An open-source scholarship checker for better opportunities and decisions. | `Python` `Automation` |
-| 📈 **AI-Trading** | Quantitative crypto algorithmic trading and automated strategies. | `Python` `Crypto` `DeFi` |
 
 ---
 
