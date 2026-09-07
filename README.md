@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38&desc=Web3%20%E2%80%A2%20AI%20Safety%20%E2%80%A2%20Backend%20Developer&descAlignY=62&descFontSize=18&theme=tokyonight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20AI%20Safety&descAlignY=62&descFontSize=18&theme=tokyonight" width="100%"/>
 
   <p align="center">
     <a href="https://github.com/Adikafazaa">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+System+Architect;Web3+Enthusiast+%26+Smart+Contracts;AI+Safety+%26+Guardrail+Architect+(SIAGA);Scalable+Microservices+%26+Clean+APIs;Always+building+and+learning..." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+Linux+Enthusiast;Debian+%E2%80%A2+Ubuntu+%E2%80%A2+Pop!_OS+%E2%80%A2+Linux+Mint;AI+Safety+%26+Guardrail+Architect+(SIAGA);Clean+Code+%26+Resilient+Systems;Always+building+and+learning..." alt="Typing SVG" />
     </a>
   </p>
 
@@ -25,44 +25,44 @@
 
 ```yaml
 Name: Adika Faza
-Role: Backend & Distributed Systems Engineer
+Role: Backend Developer & Linux Enthusiast
 Location: Indonesia
 Pronouns: he/him
-Interests: Backend Architecture, Web3 Ecosystems, AI Safety & Guardrails, Distributed Systems
+Interests: Linux Ecosystems, Backend Systems, AI Safety & Guardrails, Open Source
 Current Focus:
   - Designing robust backend pipelines & stateful AI guardrails (SIAGA)
-  - Architecting scalable cloud backends & decentralized data systems
+  - Exploring Linux environments, system administration & backend tooling
 Experience: Completed an Internship at The University of Padjadjaran
 ```
 
+- 🐧 Dedicated **Linux enthusiast** daily driving & exploring **Debian**, **Ubuntu**, **Pop!_OS**, and **Linux Mint**.
 - 🔭 I’m currently architecting **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Crescendo Attacks.
-- 🌱 Continuously refining my expertise in **Backend Architecture**, **Python**, **TypeScript**, **Databases**, and **Distributed Systems**.
-- 💬 Ask me about **backend API design**, **AI guardrails**, **Web3 infrastructure**, or **database optimizations**.
-- ⚡ Fun fact: *I enjoy architecting resilient backend logic and turning complex ideas into clean, automated code.*
+- 🌱 Continuously refining my expertise in **Linux Systems**, **Python**, **TypeScript**, and **Backend Engineering**.
+- 💬 Ask me about **Linux distros**, **Bash scripting**, **backend systems**, or **AI guardrails**.
+- ⚡ Fun fact: *I enjoy architecting resilient systems and turning complex ideas into clean, automated code.*
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Systems
 
 <div align="center">
 
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+#### Operating Systems & Linux Distros
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 #### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### Infrastructure, DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
