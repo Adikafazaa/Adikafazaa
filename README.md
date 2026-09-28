@@ -9,7 +9,7 @@
     <a href="mailto:adikafaza21@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Alumni%20Intern-Univ.%20Padjadjaran-00569B?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Unpad" />
+    
     <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   </p>
 </div>
