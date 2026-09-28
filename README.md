@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=220&section=header&text=Adika%20Faza%20Athallah&fontSize=42&fontAlignY=38&desc=Informatics%20Student%20•%20Backend%20Engineering%20•%20Linux%20Enthusiast&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
-
-  <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Undergraduate+Informatics+%40+ITENAS+Bandung;Backend+Systems+%26+Linux+Enthusiast;Architecting+AI+Guardrails+(SIAGA);Building+Scalable+Web+%26+Cloud+Solutions" alt="Typing SVG" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza%20Athallah&fontSize=45&fontAlignY=45" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://youtube.com/@Vindicta-Tech" target="_blank">
@@ -14,7 +8,6 @@
     <a href="mailto:adikafaza21@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-0052CC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   </p>
 </div>
@@ -26,20 +19,19 @@
 ```yaml
 Name: Adika Faza Athallah
 Education: Undergraduate Informatics / Computer Science @ Institut Teknologi Nasional (ITENAS) Bandung
-Role: Backend Developer & Systems Enthusiast
-Location: Bandung, Indonesia
+Role: Software Developer & Informatics Student
 Pronouns: he/him
-Interests: Linux Ecosystems, Backend Architecture, AI Safety & Guardrails, Open Source
+Interests: Software Architecture, AI Safety & Guardrails, Open Source, System Design
 Current Focus:
   - Architecting stateful AI guardrails & clinical safety pipelines (SIAGA)
-  - Exploring Linux system internals, kernel concepts, and backend infrastructure
-  - Deepening full-stack web engineering & clean code practices
+  - Exploring system architecture, cloud technologies, and full-stack software development
+  - Deepening modern web engineering & clean code practices
 Past Experience: IT Support Intern @ Universitas Padjadjaran (UNPAD)
 ```
 
-- 🐧 Dedicated **Linux enthusiast** daily driving and exploring distributions across **Debian**, **Ubuntu**, **Pop!_OS**, and **Linux Mint**.
+- 🐧 Daily driving and exploring distributions across **Debian**, **Ubuntu**, **Pop!_OS**, and **Linux Mint**.
 - 🛡️ Creator of **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Multi-Turn Crescendo Attacks.
-- 🎓 Active computer science student continuously building practical projects in **Backend Engineering**, **System Administration**, and **Modern Web Development**.
+- 🎓 Active computer science student continuously building practical projects in **Software Engineering**, **System Administration**, and **Modern Web Development**.
 - 💬 Ask me about **Linux distros**, **Bash scripting**, **API architecture**, or **AI safety guardrails**.
 
 ---
@@ -63,7 +55,7 @@ Past Experience: IT Support Intern @ Universitas Padjadjaran (UNPAD)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### Backend, Frameworks & Web
+#### Frameworks & Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
