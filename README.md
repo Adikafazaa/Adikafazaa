@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=220&section=header&text=Adika%20Faza%20Athallah&fontSize=42&fontAlignY=38&desc=Informatics%20Student%20•%20Backend%20Engineering%20•%20Linux%20Enthusiast&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Undergraduate+Informatics+%40+ITENAS+Bandung;Backend+Systems+%26+Linux+Enthusiast;Architecting+AI+Guardrails+(SIAGA);Building+Scalable+Web+%26+Cloud+Solutions" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p align="center">
     <a href="https://youtube.com/@Vindicta-Tech" target="_blank">
@@ -9,53 +14,63 @@
     <a href="mailto:adikafaza21@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    
+    <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-0052CC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
   </p>
 </div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 ```yaml
-Name: Adika Faza
-Role: Backend Developer & Linux Enthusiast
-Location: Indonesia
+Name: Adika Faza Athallah
+Education: Undergraduate Informatics / Computer Science @ Institut Teknologi Nasional (ITENAS) Bandung
+Role: Backend Developer & Systems Enthusiast
+Location: Bandung, Indonesia
 Pronouns: he/him
-Interests: Linux Ecosystems, Backend Systems, AI Safety & Guardrails, Open Source
+Interests: Linux Ecosystems, Backend Architecture, AI Safety & Guardrails, Open Source
 Current Focus:
-  - Designing robust backend pipelines & stateful AI guardrails (SIAGA)
-  - Exploring Linux environments, system administration & backend tooling
-Experience: Completed an Internship at The University of Padjadjaran
+  - Architecting stateful AI guardrails & clinical safety pipelines (SIAGA)
+  - Exploring Linux system internals, kernel concepts, and backend infrastructure
+  - Deepening full-stack web engineering & clean code practices
+Past Experience: IT Support Intern @ Universitas Padjadjaran (UNPAD)
 ```
 
-- Dedicated **Linux enthusiast** daily driving and exploring **Debian**, **Ubuntu**, **Pop!_OS**, and **Linux Mint**.
-- Currently architecting **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Crescendo Attacks.
-- Continuously refining my expertise in **Linux Systems**, **Python**, **TypeScript**, and **Backend Engineering**.
-- Ask me about **Linux distros**, **Bash scripting**, **backend systems**, or **AI guardrails**.
+- 🐧 Dedicated **Linux enthusiast** daily driving and exploring distributions across **Debian**, **Ubuntu**, **Pop!_OS**, and **Linux Mint**.
+- 🛡️ Creator of **[SIAGA](https://github.com/Adikafazaa/SIAGA)** — a Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Multi-Turn Crescendo Attacks.
+- 🎓 Active computer science student continuously building practical projects in **Backend Engineering**, **System Administration**, and **Modern Web Development**.
+- 💬 Ask me about **Linux distros**, **Bash scripting**, **API architecture**, or **AI safety guardrails**.
 
 ---
 
-### Tech Stack & Systems
+### 🛠️ Tech Stack & Technologies
 
 <div align="center">
 
-#### Operating Systems & Linux Distros
+#### Operating Systems & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
-#### Languages & Databases
+#### Programming & Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### Infrastructure, DevOps & Tools
+#### Backend, Frameworks & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### DevOps, Infrastructure & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -66,29 +81,30 @@ Experience: Completed an Internship at The University of Padjadjaran
 
 ---
 
-### Featured Projects
+### 🚀 Featured Repositories
 
-| Project | Description | Tech Stack |
+| Repository | Description | Key Technologies |
 | :--- | :--- | :--- |
-| **[SIAGA](https://github.com/Adikafazaa/SIAGA)** | Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Multi-Turn Crescendo Attacks. | `TypeScript` `AI Safety` `LLM Guardrail` |
-| **[md-to-pdf](https://github.com/Adikafazaa/md-to-pdf)** | High-quality Markdown to PDF converter with Unicode, KaTeX LaTeX, Mermaid Flowcharts, and Drag & Drop Studio. | `JavaScript` `KaTeX` `Mermaid.js` |
-| **[Beasiswa-checker](https://github.com/Adikafazaa/Beasiswa-checker)** | An open-source scholarship checker for better opportunities and decisions. | `Python` `Automation` |
+| **[SIAGA](https://github.com/Adikafazaa/SIAGA)** | 🛡️ Sovereign Clinical Care & Stateful Intent-Aware Guardrail Architecture against Multi-Turn Crescendo Attacks. | `TypeScript` `AI Safety` `LLM Guardrails` |
+| **[Pemrograman-Web](https://github.com/Adikafazaa/Pemrograman-Web)** | 🌐 Comprehensive Web Engineering courseware, modular roadmap, and student assignments at ITENAS Bandung. | `HTML5` `CSS3` `JavaScript` `PHP` `MySQL` |
+| **[md-to-pdf](https://github.com/Adikafazaa/md-to-pdf)** | 📑 High-quality Markdown to PDF converter with Unicode, KaTeX LaTeX formulas, Mermaid diagrams, and live studio. | `JavaScript` `KaTeX` `Mermaid.js` |
+| **[Beasiswa-checker](https://github.com/Adikafazaa/Beasiswa-checker)** | 🎓 Open-source scholarship opportunity scraper and decision support tool for students. | `Python` `Web Automation` |
 
 ---
 
-### GitHub Activity & Statistics
+### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Adikafazaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adikafazaa&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adikafazaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikafazaa&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adikafazaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Adikafazaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://github.com/Adikafazaa">Adika Faza</a></sub>
+  <sub>Designed & Maintained by <a href="https://github.com/Adikafazaa"><strong>Adika Faza Athallah</strong></a></sub>
 </div>
