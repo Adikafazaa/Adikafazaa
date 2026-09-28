@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=200&section=header&text=Adika%20Faza&fontSize=50&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20AI%20Safety&descAlignY=62&descFontSize=18&theme=tokyonight" width="100%"/>
 
-  <p align="center">
-    <a href="https://github.com/Adikafazaa">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=550&lines=Backend+Developer+%26+Linux+Enthusiast;Debian+%E2%80%A2+Ubuntu+%E2%80%A2+Pop!_OS+%E2%80%A2+Linux+Mint;AI+Safety+%26+Guardrail+Architect+(SIAGA);Clean+Code+%26+Resilient+Systems;Always+building+and+learning..." alt="Typing SVG" />
-    </a>
-  </p>
 
   <p align="center">
     <a href="https://youtube.com/@Vindicta-Tech" target="_blank">
